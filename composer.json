@@ -1,6 +1,6 @@
 {
     "name": "bolechen/media-manager",
-    "description": "Media manager for laravel: bug fix && require last dev-master version",
+    "description": "fork from laravel-admin，修复了一些 bug，自用，有需要请看源项目",
     "type": "library",
     "keywords": ["laravel-admin", "media", "manager"],
     "homepage": "https://github.com/bolechen/media-manager",
